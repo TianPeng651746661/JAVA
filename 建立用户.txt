@@ -1,0 +1,1 @@
+grant usage on *.* to 'qwer'@'localhost'IDENTIFIED by '123456' with grant OPTION;
